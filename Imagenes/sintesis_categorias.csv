@@ -1,0 +1,7 @@
+﻿categoria,n_puestos,pct_puestos,pct_censo,pct_votos,indice_medio,censo_mediano,participacion_mediana_pct,participacion_p25_pct,participacion_p75_pct,n_departamentos,n_municipios
+Izquierda,61,0.53,0.13,0.15,-0.7,385.0,63.73,55.56,72.04,9,18
+Centro-izquierda,1084,9.37,9.04,8.44,-0.29,1115.5,54.33,44.06,68.92,28,141
+Centro,7322,63.29,67.68,67.08,0.0,1152.0,59.65,49.3,70.42,33,766
+Centro-derecha,2689,23.24,19.12,20.14,0.36,749.0,65.0,51.3,74.74,30,424
+Derecha,413,3.57,4.03,4.19,0.69,839.0,66.96,54.86,74.45,19,74
+Total,11569,100.0,100.0,100.0,0.08,1016.0,60.66,49.31,71.83,33,1022

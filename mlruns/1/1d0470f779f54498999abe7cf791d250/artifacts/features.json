@@ -1,0 +1,26 @@
+{
+  "numericas": [
+    "log_n_total",
+    "log_n_mesas",
+    "pct_mujeres",
+    "log_electores_mesa",
+    "log_n_puestos_mun",
+    "log_censo_mun",
+    "peso_puesto",
+    "n_candidatos_mun",
+    "inclinacion_politica",
+    "incl_mun_media",
+    "incl_mun_std",
+    "incl_dist_rivales",
+    "incl_abs",
+    "incl_rank_pct",
+    "log_partido_n_mun",
+    "disc_len_log",
+    "disc_n_fuentes",
+    "disc_vacio"
+  ],
+  "categoricas": [
+    "dep",
+    "partido_grupo"
+  ]
+}

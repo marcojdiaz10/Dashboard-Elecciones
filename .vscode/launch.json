@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Streamlit: Dashboard",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "streamlit",
+      "args": [
+        "run",
+        "${workspaceFolder}\\app.py"
+      ],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "Python: Check setup",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}\\check_setup.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
